@@ -1,0 +1,66 @@
+body nav ul li{
+	
+	list-style-type: none;
+	
+}
+
+
+
+.sticky{
+	position: sticky;
+	top: 10px;
+	width: 1380px;
+	height: 73px;
+	background-color: #c4170c;
+	margin-top: 45px;
+	margin-left: -10px;
+}
+
+ul {
+	color: white;
+	display: flex;
+}
+li{
+	margin-left: 300px;
+	text-align: center;
+	margin-top: 20px;
+}
+
+.logo-g1{
+	font-size: 50px;
+	font-family: sans-serif;
+	margin-top: 0px;
+	margin-left: 550px;
+	
+}
+
+.menu-novo{
+	font-family: sans-serif;
+	margin-left: 10px;
+	margin-top: 25px;
+
+}
+
+.buscar-logo{
+	font-family: arial;
+	margin-left: 550px;
+	font-weight: bold;
+	margin-top: 25px;
+	background-color: LightGrey;
+	border-radius: 5px;
+	color: black;
+
+}
+
+.buscar-logo:hover{
+	color: red;
+}
+
+.absolute{
+	position: sticky;
+	width: 1380px;
+	height: 73px;
+	background-color: blue;
+	margin-top: 45px;
+	margin-left: -10px;
+}
